@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(116, 82, 50);
+}
+img{
+    position: relative;
+    
+}
+.rain{
+    position: relative;
+    left: 100px;
+    top: 100px;
+    margin: 0px;
+}
+.home{
+    color: rgb(189, 147, 31);
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.Story{
+    color: wheat;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: 0;
+    border-radius: 20px;
+    padding: 5px;
+    border: solid 2px;
+}
+.the-end{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-weight: 900;
+
+}
